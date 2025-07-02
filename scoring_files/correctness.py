@@ -242,7 +242,6 @@ def evaluate_correctness(question, actual_result, expected_result, api_key, api_
 # question = "What is the capital of France?"
 # actual_result = "The capital of France is Paris."
 # expected_result = "The capital of France is Paris." # Example usage 
-# api_key = "Bearer sk-e09a03dca28b434eba574f0cee3e5f13"
 # api_url = "https://api.deepseek.com/v1/chat/completions"
 # evaluate_correctness(
 #     question,
