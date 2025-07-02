@@ -1,4 +1,5 @@
 User Guide
+Link to user guide with screenshots : [User Guide.docx](https://github.com/lakshmisubhadra/Gen_AI_Evaluator/blob/c8505eed25317b06509c4af2f4c1d94707e6b311/User%20Guide.docx)
 
 Objective: A python-Deepseek based tool that evaluates generative AI outputs using customizable metrics with configurable thresholds.
 
